@@ -37,7 +37,7 @@ Aprender o básico sobre contribuição no GitHub.
     </tr>
     <tr>
       <td>02</td>
-      <td>Formas de Contribuir num Projeto Open Source</td>
+      <td>Formas de Contribuir num Projeto Open Source:</td>
       <td align="center">
         <a href="">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
